@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>D:\Nilar\Tracking Deployment</_PublishTargetUrl>
+    <History>True|2023-05-30T08:38:24.3395086Z;True|2023-05-30T11:09:46.4642598+06:30;True|2023-05-30T10:21:01.6068366+06:30;True|2023-05-29T09:27:41.8803968+06:30;True|2023-05-17T08:53:57.7386770+06:30;True|2023-05-16T11:27:16.7357234+06:30;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>
